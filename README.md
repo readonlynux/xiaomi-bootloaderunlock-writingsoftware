@@ -46,9 +46,9 @@ Accept the privacy policy. Click on `Add account and device`. If you are not log
 
 Launch the Xiaomi Community app and go to the `Me` section. Sign in with your Xiaomi account. Then, click `Unlock bootloader` Click `Apply for unlocking` (`Xiaomi Community > ME > Unlock Bootloader > Apply for unlocking`).
 
-🚫 Limitation: `Application quota limit reached,please try again after XX/XX (mm/dd) 00:00 (GMT+8)` This error message tells you that your application limit has been reached. You must reapply tomorrow at 12:00 AM (00:00) Chinese time.
+> 🚫 Limitation: `Application quota limit reached,please try again after XX/XX (mm/dd) 00:00 (GMT+8)` This error message tells you that your application limit has been reached. You must reapply tomorrow at 12:00 AM (00:00) Chinese time.
 
-❌ `There is no unlock bootloader section.` Set `Xiaomi Community > ME > Set up > Change region` to `Global`.
+> ❌ `There is no unlock bootloader section.` Set `Xiaomi Community > ME > Set up > Change region` to `Global`.
 
 # 🔓 BOOTLOADER UNLOCK
 
