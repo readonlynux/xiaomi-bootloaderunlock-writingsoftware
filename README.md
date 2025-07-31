@@ -62,7 +62,7 @@ You need to install a tool to unlock the `bootloader`. [Click here to install th
 - Press the `Unlock` button
 
 > ⛔ `My device cannot be found?`
-> - You can find the solution in this guide. [Press](https://c.mi.com/bd/post/11400/)
+> - You can find the solution in this guide. [Press Install the driver](https://bigota.d.miui.com/tools/xiaomi_usb_driver.rar) [GUIDE](https://developer.android.com/studio/run/oem-usb)
 
 # ⚡ ROM FLASHING
 
