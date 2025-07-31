@@ -64,9 +64,11 @@ You need to install a tool to unlock the `bootloader`. [Click here to install th
 > ⛔ `My device cannot be found?`
 > - You can find the solution in this guide. [Press](https://c.mi.com/bd/post/11400/)
 
-All done !
+# ⚡ ROM FLASHING
 
-# 🌐 MY SOCIAL
+[Click to go to the guide](https://github.com/readonlynux/xiaomi-bootloaderunlock-writingsoftware/blob/main/docs/FLASHSOFTWARE.md)
+
+ # 🌐 MY SOCIAL
 
 [GitHub](https://github.com/readonlynux)
 
