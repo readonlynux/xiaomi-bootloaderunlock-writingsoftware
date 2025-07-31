@@ -1,5 +1,5 @@
 # ⚠️ DISCLAIMER
-⚠️ This method may void your warranty or cause permanent damage to your device if not done correctly. I take no responsibility for any issues that may occur. Use at your own risk. ⚠️
+⚠️ This method may void your warranty or cause permanent damage to your device if not done correctly. I take no responsibility for any issues that may occur. **Use at your own risk.** ⚠️
 
 > ⚠️ **These methods are only valid for Xiaomi (Redmi, POCO etc.) devices.**
 
@@ -66,7 +66,7 @@ You need to install a tool to unlock the `bootloader`. [Click here to install th
 
 All done !
 
-# 🌐 MY SOCIAL MEDIA
+# 🌐 MY SOCIAL
 
 [GitHub](https://github.com/readonlynux)
 
