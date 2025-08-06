@@ -8,7 +8,7 @@
 
 # 📲 BIND XIAOMI ACCOUNT WITH DEVICE
 
-> 🔒 Once you bind the device with your Xiaomi account, you can unlock the bootloader.
+> 🔒 **Once you bind the device with your Xiaomi account, you can unlock the bootloader.**
 
 ## ✅ For MIUI users;
 
