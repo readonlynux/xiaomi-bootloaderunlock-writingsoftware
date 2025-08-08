@@ -18,4 +18,11 @@ To flash firmware, you first need to select the ROM you want to download. You ca
 
 and more
 
-Once you find the ROM, download it and follow the instructions given there
+Once you find the ROM, download it and follow the instructions given there or use a custom recovery like TWRP.
+
+# 💿 CUSTOM RECOVERY LISTS
+
+- [TWRP](http://twrp.me)
+- [PBRP](https://pitchblackrecovery.com/)
+- [OrangeFox Recovery](https://orangefox.download/)
+and more
